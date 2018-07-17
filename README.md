@@ -11,10 +11,10 @@ An Internet of Things project using:
 4. Logic Level Shifter
 5. Breadboard and Jumper Wires
 
-![](rpi.jpg =250x)
-![](mq2.png =250x)
-![](adc-ads1115.png =250x)
-![](lls.png =250x)
+![RPi](rpi.jpg)
+![MQ-2](mq2.png)
+![ADS-1115](adc-ads1115.png)
+![LLS](lls.png)
 
 ### Wiring
 
